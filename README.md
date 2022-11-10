@@ -1,9 +1,28 @@
-# Hi !
+# About me
 
 I'm VALENNE Nathan
 - 🧑 Age : 18
 - 🧑‍💻 Second year of Computer Science degree
-<!---
-nvalenne-iut90/nvalenne-iut90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact me
+- 📬 Mail 1 : [nathan.valenne@gmail.com](mailto:nathan.valenne@gmail.com)
+- 📬 Mail 2 : [nathan.valenne@edu.univ-fcomte.fr](mailto:nathan.valenne@edu.univ-fcomte.fr)
+
+# Hard skills
+
+## Web
+### Languages
+- Python
+- Javascript
+  - NodeJS
+- MySQL, PostgreSQL
+### Frameworks
+- VueJS
+- Flask
+- ExpressJS
+
+## Software
+
+### Languages
+- Java
+- Python
+- C
