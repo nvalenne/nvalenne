@@ -17,7 +17,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-- 🧑 18 years old
+- 🧑 19 years old programmer
 - 🧑‍💻 Second year of Computer Science degree
 - 📬 Mail 1 : [nathan.valenne@gmail.com](mailto:nathan.valenne@gmail.com)
 - 📬 Mail 2 : [nathan.valenne@edu.univ-fcomte.fr](mailto:nathan.valenne@edu.univ-fcomte.fr)
