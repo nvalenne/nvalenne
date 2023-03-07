@@ -15,6 +15,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+Currently a second year student in computer science bachelor (BUT Informatique) at the University of Franche-Comté, I am passsionate of computers since I was a teenager . Thus, I have realised some mini-projects (dynamics web applications, realisation and coding of interactive games, installation of computer networks).
 
 - 🧑 19 years old programmer
 - 🧑‍💻 Second year of Computer Science degree
