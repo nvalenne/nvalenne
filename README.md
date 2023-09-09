@@ -18,7 +18,7 @@
 Currently a second year student in computer science bachelor (BUT Informatique) at the University of Franche-Comté, I am passsionate of computers since I was a teenager . Thus, I have realised some mini-projects (dynamics web applications, realisation and coding of interactive games, installation of computer networks).
 
 - 🧑 19 years old programmer
-- 🧑‍💻 Second year of Computer Science degree
+- 🧑‍💻 Second year of Computer Science Bachelor
 - 📬 Mail 1 : [nathan.valenne@gmail.com](mailto:nathan.valenne@gmail.com)
 - 📬 Mail 2 : [nathan.valenne@edu.univ-fcomte.fr](mailto:nathan.valenne@edu.univ-fcomte.fr)
 
