@@ -19,8 +19,7 @@ Currently a second year student in computer science bachelor (BUT Informatique) 
 
 - 🧑 19 years old programmer
 - 🧑‍💻 Second year of Computer Science Bachelor
-- 📬 Mail 1 : [nathan.valenne@gmail.com](mailto:nathan.valenne@gmail.com)
-- 📬 Mail 2 : [nathan.valenne@edu.univ-fcomte.fr](mailto:nathan.valenne@edu.univ-fcomte.fr)
+- 📬 Mail : [nathan.valenne@gmail.com](mailto:nathan.valenne@gmail.com)
 
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvalenne-iut90&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
