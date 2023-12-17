@@ -30,6 +30,6 @@ Currently a third year student in computer science bachelor (BUT Informatique) a
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvalenne-iut90&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvalenne&layout=compact&exclude_repo=s1-2021-ihm,SAE3-4-5&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
